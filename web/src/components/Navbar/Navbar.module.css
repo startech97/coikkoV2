@@ -1,0 +1,6 @@
+.Navbar {
+    padding: 0 2rem;
+}
+.Navbar .active {
+    background-color: rgb(151, 151, 151,0.3);
+}
